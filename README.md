@@ -5,20 +5,18 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with over 4 years of ex
 ## Skills
 
 - **Programming Languages:** JavaScript, TypeScript
-- **Front-end Technologies:** React Native, React.js, HTML, CSS, Bootstrap, Material UI
+- **Front-end Technologies:** React Native, React.js, Next.js, HTML, CSS, Bootstrap, Material UI, Chakra UI
 - **Back-end Technologies:** Node.js, Nest.js, Express, GraphQL, REST APIs
 - **Databases:** MongoDB, MySQL, Postgres, Firestore, Firebase Realtime Database
-- **Tools & Platforms:** Git, GitHub, AWS, Firebase, Heroku
+- **Tools & Platforms:** Git, GitHub, AWS, Firebase, Heroku, Netlify, Render
 
 ## Projects
 
-Here are some of the projects that I've worked on:
-
+Here are some of the recent projects that I've worked on:
 
 - **CryptoKara:** A secure wallet for top cryptos - Bitcoin, Ethereum, Binance, and TRON. Users can send, receive, and store cryptocurrencies and NFTs securely with CryptoKara Wallet App. The app is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.cryptokara&hl=en&gl=US) and [App Store](https://apps.apple.com/us/app/cryptokara/id1574682003).
 - **Block Merchants:** A crypto asset platform offering storage and payment support for Bitcoin and top altcoins. The mobile app allows businesses to easily send and receive crypto assets with features aimed at simplifying the process. The app is available on [App Store](https://apps.apple.com/us/app/block-merchants/id1574668097).
 - **CQR Vault:** A mobile app and web app for managing and tracking cryptocurrency assets. The app supports multiple cryptocurrencies and allows users to view their portfolio performance and transactions. The app is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.cqrvault&hl=en&gl=US), and [web app](https://cqrvault.org/).
-
 
 
 ## Contact
