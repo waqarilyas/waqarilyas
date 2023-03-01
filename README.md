@@ -28,9 +28,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-
 
 Here are some of the recent projects that I've worked on:
 
-1. [CryptoKara](https://play.google.com/store/apps/details?id=com.cryptokara&hl=en&gl=US): A secure wallet for top cryptos - Bitcoin, Ethereum, Binance, and TRON.
-2. [Block Merchants](https://apps.apple.com/us/app/block-merchants/id1574668097): A crypto asset platform offering storage and payment support for Bitcoin and top altcoins.
-3. [CQR Vault](https://cqrvault.org/): A mobile app and web app for managing and tracking cryptocurrency assets.
+- [CryptoKara](https://play.google.com/store/apps/details?id=com.cryptokara&hl=en&gl=US): A secure wallet for top cryptos - Bitcoin, Ethereum, Binance, and TRON.
+- [Block Merchants](https://apps.apple.com/us/app/block-merchants/id1574668097): A crypto asset platform offering storage and payment support for Bitcoin and top altcoins.
+- [CQR Vault](https://cqrvault.org/): A mobile app and web app for managing and tracking cryptocurrency assets.
 
 
 ## 📫 How to Reach Me
