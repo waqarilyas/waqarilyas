@@ -23,7 +23,7 @@ Here are some of the projects that I've worked on:
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqar-389085141/). If you have any questions or are interested in collaborating on a project, you can reach me at [your.email@gmail.com](mailto:muhammadwaqar.cp@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqar-389085141/). If you have any questions or are interested in collaborating on a project, you can reach me at [muhammadwaqar.cp@gmail.com](mailto:muhammadwaqar.cp@gmail.com).
 
 Thank you for visiting my profile!
 
