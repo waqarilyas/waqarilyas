@@ -1,4 +1,8 @@
 # Muhammad Waqar - Full Stack Developer
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-waqar-389085141/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_waqarilyas)
+
+
 
 Welcome to my GitHub profile! I'm a Full Stack Developer with over 4 years of experience in building web and mobile applications using Node.js and various front-end frameworks such as React Native and React.js. I specialize in developing high-quality, scalable, and user-friendly applications that meet business needs.
 
