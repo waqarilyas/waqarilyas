@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Developer with over 4 years of experience in building web and mobile applications using Node.js and various front-end frameworks such as React Native and React.js. I specialize in developing high-quality, scalable, and user-friendly applications that meet business needs.
 
-## Skills
+## 🛠 Skills
 
 - **Programming Languages:** JavaScript, TypeScript
 - **Front-end Technologies:** React Native, React.js, Next.js, HTML, CSS, Bootstrap, Material UI, Chakra UI
