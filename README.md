@@ -1,4 +1,4 @@
-# Muhammad Waqar - Senior Full Stack Developer (MERN Specialist) & Blockchain Expert
+# Muhammad Waqar - Full Stack Developer 
 
 Welcome to my GitHub profile! I'm Muhammad Waqar, a seasoned and meticulous Senior Full Stack Developer with nearly 5 years of comprehensive experience in web and mobile application development. My technical acumen spans a wide range of technologies with a specialized focus on the MERN stack (MongoDB, Express.js, React, Node.js), leveraging these to architect, develop, and scale innovative digital solutions. Alongside my expertise in full-stack development, I possess a strong proficiency in AWS cloud services, serverless architecture, and blockchain technology, enabling me to deliver robust, scalable, and cutting-edge solutions.
 
