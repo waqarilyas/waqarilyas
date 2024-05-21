@@ -28,6 +28,6 @@ In the blockchain space, I have applied my expertise to develop and integrate sm
 
 ## 📫 Let's Connect
 
-I am keen on exploring new technologies, discussing innovative project ideas, or potential collaborations. Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqar-389085141/) or reach out via email at [muhammadwaqar.cp@gmail.com](mailto:muhammadwaqar.cp@gmail.com).
+I am keen on exploring new technologies, discussing innovative project ideas, or potential collaborations. Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-waqar-389085141/) or reach out via email at [waqarilyas.dev@gmail.com](mailto:waqarilyas.dev@gmail.com).
 
 Thank you for visiting my profile. I look forward to contributing my skills and experience to your next project, driving it towards success with a blend of modern web practices, cloud architecture, and blockchain innovation.
