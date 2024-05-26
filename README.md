@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Muhammad Waqar, a seasoned and meticulous Seni
 
 ## 🛠 Technical Expertise
 
-- **Core Specialization:** MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Core Specialization:** MERN Stack (MongoDB, Express.js, React, Node.js), Laravel
 - **Front-end Technologies:** React.js, React Native, Next.js (with advanced use of app router and pages routes, Static Site Generation (SSG)), HTML5, CSS3, Bootstrap, Material UI, Chakra UI
 - **Back-end Technologies:** Node.js, Nest.js, Express.js, GraphQL, REST APIs
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firestore, Firebase Realtime Database
